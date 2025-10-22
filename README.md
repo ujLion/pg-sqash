@@ -1,3 +1,8 @@
+**⚠️ WARNING: This guide and any accompanying scripts are provided "AS IS" with NO WARRANTIES. 
+Running the described migration squash procedure can cause DATA LOSS, irreversible changes to databases, 
+and may require restoring from backups. Always verify backups, test in non-production environments first, 
+and coordinate with your team before proceeding. The authors are not responsible for any damage or data loss.**
+
 # Flyway Migration Squash Guide
 
 poweshell script to squash postgress's flyway migration scripts
